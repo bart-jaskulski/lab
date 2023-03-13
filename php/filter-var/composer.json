@@ -1,0 +1,6 @@
+{
+    "name": "lab/filter-var",
+    "require-dev": {
+        "phpbench/phpbench": "^1.2"
+    }
+}
