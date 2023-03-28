@@ -1,0 +1,6 @@
+{
+    "name": "lab/class-string-inheritance",
+    "require-dev": {
+        "phpbench/phpbench": "^1.2"
+    }
+}
